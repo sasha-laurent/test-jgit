@@ -1,6 +1,6 @@
 public class Bonjour(){
   public static void main(String[] args){
-	  // Test comment
+	  // Voilà comment on dit bonjour!
     System.out.println("Bonjour!");
   }
 }
